@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - RobotFriend
+  - Enemy
+  - Manager
+  - SceneController
   layers:
   - Default
   - TransparentFX
@@ -13,12 +17,12 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Separation
+  - Blocking
+  - Missile
+  - Ally
+  - Enemy
+  - Item
   - 
   - 
   - 
